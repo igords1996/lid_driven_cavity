@@ -1,6 +1,11 @@
 Advanced Numerical Method Project
 ===================================
 
+
+PROJECT ACTIVE KEYS
+====================
+**You can change the driven boundary with the arrows of your computer (up, down, left and right) and you can restart the simulation by pressing the enter key.**
+
 This folder is the canvas for your upcoming project.
 It should contain:
  * this file (**README.md**)
